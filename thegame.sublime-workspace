@@ -1,0 +1,665 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mac",
+				"machina"
+			],
+			[
+				"per",
+				"perditio"
+			],
+			[
+				"holog",
+				"hologram"
+			],
+			[
+				"hologr",
+				"holograms"
+			],
+			[
+				"t",
+				"tFilters"
+			],
+			[
+				"pull",
+				"pullResponse"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"rs",
+				"response"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"event",
+				"eventId"
+			],
+			[
+				"even",
+				"eventId"
+			],
+			[
+				"evne",
+				"eventId"
+			],
+			[
+				"modem",
+				"modem_message"
+			],
+			[
+				"ad",
+				"addr"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"js",
+				"jsIndex"
+			],
+			[
+				"queu",
+				"queues"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-origin"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"buto",
+				"buttonEvents"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"pr",
+				"pressed"
+			],
+			[
+				"o",
+				"oButton"
+			],
+			[
+				"c",
+				"cButton"
+			],
+			[
+				"butt",
+				"buttonEvents"
+			],
+			[
+				"button",
+				"buttonStates"
+			],
+			[
+				"line",
+				"lineBuffer"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ch",
+				"chunk"
+			],
+			[
+				"l",
+				"lineNo"
+			],
+			[
+				"chunk",
+				"chunk_str"
+			],
+			[
+				"chun",
+				"chunk_str"
+			],
+			[
+				"par",
+				"parser"
+			],
+			[
+				"read",
+				"readying"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"pars",
+				"parseConfig"
+			],
+			[
+				"fie",
+				"fileStream"
+			],
+			[
+				"file",
+				"fileStream"
+			],
+			[
+				"eul",
+				"eulaValueRX"
+			],
+			[
+				"e",
+				"equal"
+			],
+			[
+				"set",
+				"setError"
+			],
+			[
+				"cons",
+				"constructor"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "require('load-grunt-tasks')(grunt); // npm install --save-dev load-grunt-tasks \n \ngrunt.initConfig({\n    es6transpiler: {\n        dist: {\n            files: {\n                'dist/app.js': 'src/app.js'\n            }\n        }\n    }\n});\n \ngrunt.registerTask('default', ['']);",
+			"file": "Gruntfile",
+			"file_size": 288,
+			"file_write_time": 131034786456139764,
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 493,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 376,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tesselate.js",
+			"settings":
+			{
+				"buffer_size": 50,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Mocha",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/prozacgod/Workspace/TheGame",
+		"/home/prozacgod/Workspace/TheGame/dist",
+		"/home/prozacgod/Workspace/TheGame/src"
+	],
+	"file_history":
+	[
+		"/home/prozacgod/Workspace/oc_computer/hdd2/parallel2.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd2/pzcnetrom.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/lib_pzcnet.lua",
+		"/home/prozacgod/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/prozacgod/Workspace/oc_computer/oc.sublime-project",
+		"/home/prozacgod/Workspace/oc_computer/hdd/lib/process.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/font_8x12.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/pedit.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/boot/10_vfs.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd2/pzc_net.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/boot/04_component.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/inject.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/init.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/test.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd2/init.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd2/.osprop",
+		"/home/prozacgod/Workspace/oc_computer/hdd/bin/date.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/usr/bin/holo-flow.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/lib/rc.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/boot/99_rc.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/boot/90_filesystem.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/bin/edit.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/lib/event.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/vfs.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/watch.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/control.lua",
+		"/home/prozacgod/Workspace/oc_computer/hdd/boot/01_process.lua",
+		"/home/prozacgod/Workspace/turtlePower/server.js",
+		"/home/prozacgod/Workspace/turtlePower/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json",
+		"/home/prozacgod/Workspace/turtlePower/Gruntfile.js",
+		"/home/prozacgod/Workspace/turtlePower/index.html",
+		"/home/prozacgod/Workspace/blockly/index.js",
+		"/home/prozacgod/Workspace/blockly/index.html",
+		"/home/prozacgod/Workspace/blockly/public/lib/Angular.js",
+		"/home/prozacgod/Workspace/blockly/lib/angular.js/src/ngLocale/angular-locale_naq.js",
+		"/home/prozacgod/Workspace/mcman/mcman.sublime-project",
+		"/home/prozacgod/Workspace/chat-example/node_modules/express/index.js",
+		"/home/prozacgod/Workspace/chat-example/index.html",
+		"/home/prozacgod/Workspace/chat-example/node_modules/socket.io/node_modules/debug/debug.js",
+		"/home/prozacgod/Workspace/ang_test1/untitled.html",
+		"/home/prozacgod/Workspace/pixelcity/README.md",
+		"/home/prozacgod/Workspace/pixelcity/Building.h",
+		"/home/prozacgod/Workspace/pixelcity/Camera.cpp",
+		"/home/prozacgod/Workspace/pixelcity/Camera.h",
+		"/home/prozacgod/Workspace/pixelcity/Car.cpp",
+		"/home/prozacgod/Workspace/pixelcity/Car.h",
+		"/home/prozacgod/Workspace/pixelcity/Deco.cpp",
+		"/home/prozacgod/Workspace/pixelcity/Deco.h",
+		"/home/prozacgod/Workspace/pixelcity/Building.cpp",
+		"/home/prozacgod/Workspace/pixelcity/.gitignore",
+		"/home/prozacgod/Workspace/pixelcity/Macro.h",
+		"/home/prozacgod/Workspace/pixelcity-read-only/Texture.cpp",
+		"/home/prozacgod/Workspace/uber-server/test.js",
+		"/home/prozacgod/Workspace/uber-server/content.js",
+		"/home/prozacgod/Workspace/uber-server/app/app.js",
+		"/home/prozacgod/Workspace/uber-server/public/index.html",
+		"/home/prozacgod/Workspace/uber/content.js",
+		"/home/prozacgod/Workspace/uber-server/client.js",
+		"/home/prozacgod/Workspace/uber/background.js",
+		"/home/prozacgod/Workspace/uber-server/public/content.js",
+		"/home/prozacgod/Workspace/uber-server/server.js",
+		"/home/prozacgod/Workspace/uber-server/public/index.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"coroutine",
+			")\n",
+			"devnae",
+			"//",
+			"setCursor",
+			"cursor",
+			"run",
+			"keybind",
+			"config.",
+			"term.",
+			"keybind",
+			"run",
+			"buffer",
+			"buf",
+			"bufer",
+			"keybinds",
+			"getForeground",
+			"highlight",
+			"SHELL",
+			"pluck",
+			"}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"--"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gruntfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/tesselate.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 226.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "thegame.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pzc",
+				"hdd2/pzc_net.lua"
+			],
+			[
+				"hdd2/",
+				"hdd2/pzc_net.lua"
+			],
+			[
+				"test.lua",
+				"hdd/test.lua"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"inde",
+				"public/index.html"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"angular",
+				"public/lib/Angular.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"",
+				"index.js"
+			],
+			[
+				"inded",
+				"node_modules/socket.io/node_modules/debug/debug.js"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"conten",
+				"uber-server/content.js"
+			],
+			[
+				"app",
+				"uber-server/app/app.js"
+			],
+			[
+				"clien",
+				"uber-server/client.js"
+			],
+			[
+				"ser",
+				"uber-server/server.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
